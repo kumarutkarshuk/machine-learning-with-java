@@ -18,6 +18,11 @@ git clone https://github.com/kumarutkarshuk/machine-learning-with-java.git
 - Open the project in your IDE
 
 - Run the main method in:
-  - `app/vercel/utkarshkumar/WineQualityRegression.java` for training
-  - `app/vercel/utkarshkumar/WineQualityPredictor.java` for prediction
+  - `src/main/java/app/vercel/utkarshkumar/WineQualityRegression.java` for training
+  - `src/main/java/app/vercel/utkarshkumar/WineQualityPredictor.java` for prediction
+
+## Credits
+
+Code snippets taken from [Introduction to Tribuo – A Java Machine Learning Library](https://www.baeldung.com/java-ml-tribuo-guide).
+
   
