@@ -21,7 +21,7 @@ git clone https://github.com/kumarutkarshuk/machine-learning-with-java.git
   - `src/main/java/app/vercel/utkarshkumar/WineQualityRegression.java` for training
   - `src/main/java/app/vercel/utkarshkumar/WineQualityPredictor.java` for prediction
 
-## Credits
+# Credits
 
 Code snippets taken from [Introduction to Tribuo – A Java Machine Learning Library](https://www.baeldung.com/java-ml-tribuo-guide).
 
